@@ -1,4 +1,4 @@
-project(task01 LANGUAGES CXX)
+project(task02 LANGUAGES CXX)
 
 find_package(OpenGL REQUIRED)
 find_package(glfw3 REQUIRED)
